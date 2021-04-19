@@ -6,6 +6,8 @@ Database Management
 
 I struggled with duplicate values but finally figured everything out once I added specific ID values. I also could not figure out how to create specific random values that faker did not specifically provide (like Major, Professor, etc) but Emily showed me how that works (through creating seperate functions with the fake.word function).
 
+Also the GCP link would not work for me so Corey added me as a user to his cloud instance. It was weird not being able to work on campus/coffee shops/etc but I got used to it.
+
 https://www.freecodecamp.org/news/python-write-to-file-open-read-append-and-other-file-handling-functions-explained/
 https://dev.mysql.com/doc/refman/8.0/en/date-and-time-types.html
 https://www.w3schools.com/sql/sql_foreignkey.asp
